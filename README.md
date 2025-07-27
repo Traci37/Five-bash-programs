@@ -20,9 +20,15 @@ The Questionnaire program engages the user by asking three questions: their name
 ### Summary
 The Countdown program counts down from a specified positive integer, which is provided as an argument. If the input is valid (greater than zero), it uses a loop to decrement the number, displaying each value with a one-second pause. This demonstrates control structures and user input validation in Bash.
 
-### Summary
-The Fortune Teller program prompts the user to ask a yes or no question and provides a random fortune response from a predefined set of answers. It ensures that the input question ends with a question mark by using a loop that requests re-entry if necessary. This program highlights input validation and the use of functions in Bash.
+## Program 3: Bingo Number Generator
 
+### Summary
+This program simulates a Bingo number generator by generating a random number between 1 and 75. Depending on the number generated, it categorizes it into one of the Bingo columns (B, I, N, G, O). The program showcases random number generation and conditional statements to handle multiple cases.
+
+## Program 4: Fortune Teller
+
+### Summary
+The Fortune Teller program prompts the user to ask a yes or no question and provides a random fortune response from a predefined set of answers. It ensures that the input question ends with a question mark by using a loop that requests re-entry if necessary.
 
 ## Program 5: Run All Programs
 
